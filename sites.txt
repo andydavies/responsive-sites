@@ -291,7 +291,7 @@ http://starbucks.com/
 http://steff.me/
 http://stephencaver.com/
 http://stevejobs.miranj.in/
-http://stickygram.com/
+http://sticky9.com/
 http://stijlroyal.com/
 http://stinkdigital.com/
 http://stuffandnonsense.co.uk/
@@ -455,7 +455,6 @@ http://www.lanepackaging.com/
 http://www.laufbild-werkstatt.de/
 http://www.law.gmu.edu/
 http://www.lewismalpas.co.uk/
-http://www.linode.com/
 http://www.lintjes.nl/
 http://www.logout.si/
 http://www.londonandpartners.com/
@@ -532,7 +531,6 @@ http://www.unitedutilities.com/
 http://www.uppbroadgatepark.com/
 http://www.uvm.edu/
 http://www.vivelohoy.com/
-http://www.vmware.com/
 http://www.w3conf.org/
 http://www.webdesignyorkshire.com/
 http://www.wentworthmansion.com/
@@ -560,4 +558,3 @@ https://www.ableton.com/en/
 https://www.gov.uk/
 https://www.redcross.org.nz/
 https://www.rijksmuseum.nl/en/explore-the-collection/subjects/owls
-https://www.zendesk.com/
